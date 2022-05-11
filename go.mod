@@ -6,6 +6,7 @@ require (
 	github.com/BurntSushi/toml v0.4.1
 	github.com/clbanning/mxj/v2 v2.5.5
 	github.com/fatih/color v1.13.0
+	github.com/forgoer/openssl v1.2.1
 	github.com/fsnotify/fsnotify v1.5.1
 	github.com/go-redis/redis/v8 v8.11.4
 	github.com/go-sql-driver/mysql v1.6.0
